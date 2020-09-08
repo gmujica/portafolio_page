@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Gregory Mujica",
+    "occupation": "Full-stack web developer",
+    "description": "Full Stack React and Node developer (MERN)",
+    "image": "dev.jpeg",
+    "bio": "I’m a full stack web developer with extensive knowledge in frontend development. Extensive knowledge in Javascript, firebase, MongoDB (mongoose), Css Frameworks as, ReactJS, NodeJS. Experience with development under the Agile Scrum Methodology",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "gregorymujica1993@gmail.com",
+    "phone": "+51 97 200 6978",
+    "address": {
+      "street": "Pedro Solaris",
+      "homecity": "Veneluelan",
+      "city": "Lima",
+      "state": "PE",
+      "zip": "15047"
+    },
+    "website": "https://github.com/gmujica",
+    "resumedownload": "https://github.com/gmujica",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/gregory-mujica-2a0400b6/?locale=en_US",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/gmujica",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Kent",
+        "degree": "Masters in Advanced Computer Science",
+        "graduated": "January 2017",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "EVOL (TSnet S.A.)",
+        "title": "Frontend Developer",
+        "years": "Dec 2019 - July 2020",
+        "description": "Frontend developer assigned to the ODC project (the origination of credit cards), System developed for the registration and consultation of financial data of customers through their ID to different credit institutions throughout Peru, this system allows to speed up the evaluation process and CENCOSUD credit card allocation to different bank customers."
+      },
+      {
+        "company": "It Secure S.A",
+        "title": "Functional analyst - QA / Analista Funcional - QA",
+        "years": "July 2019 - Sept 2020",
+        "description": "Prepare the functional analysis of new applications for different organizations, as well as update and improve existing ones; that is, it must control, analyze and supervise the functional development of computer applications, ensuring their correct exploitation and optimal performance."
+      },
+      {
+        "company": "It Secure S.A",
+        "title": "Frontend Developer",
+        "years": "July 2019 - Sept 2020",
+        "description": "Developer Frontend in the project: The Money Table, development and layout of screens. Web system for remittance auctions (Dollars and Soles)."
+      },
+      {
+        "company": "Avian Travel Services c.a",
+        "title": "Frontend Developer",
+        "years": "July 2018 - Nov 2018",
+        "description": "Frontend developer, development of App for the quotation of the terrestrial, aerial, maritime ticket and tourist packages. with the ReactJS framework together with the MaterialUI library, under the Scrum development methodology."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "NodeJS (Express)",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Proyect Ticket Manager",
+        "category": "A simple task ticket management tool developed to support the management of a project using agile methodologies such as Scrum.",
+        "image": "p-t-m.png",
+        "url": "https://gmujica.github.io/proyect-ticket-manager/"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "t.png",
+        "url": "https://github.com/gmujica/Covid_19_Tracker"
+      },
+      {
+        "title": "Github Jobs",
+        "category": "A simple application that consumes the github jobs api and performs searches built with ReactJS and Hooks",
+        "image": "github.png",
+        "url": "https://github.com/gmujica/github-jobs"
+      },
+      {
+        "title": "React Fitebase Chat",
+        "category": "A simple chat app built with ReactJS and Firebase",
+        "image": "chat.png",
+        "url": "https://github.com/gmujica/react-firebase-chat"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
