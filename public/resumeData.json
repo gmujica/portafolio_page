@@ -4,7 +4,7 @@
     "occupation": "Full-stack web developer",
     "description": "Full Stack React and Node developer (MERN)",
     "image": "profile.jpg",
-    "bio": "I’m a full stack web developer with extensive knowledge in frontend development. Extensive knowledge in Javascript, firebase, MongoDB (mongoose), Css Frameworks as, ReactJS, NodeJS. Experience with development under the Agile Scrum Methodology",
+    "bio": "I’m a full stack web developer with extensive knowledge in frontend development. Extensive knowledge in Javascript, firebase, MongoDB (mongoose), Css Frameworks as, ReactJS, NodeJS. Experience with development under the Agile Scrum Methodology.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "gregorymujica1993@gmail.com",
     "phone": "+51 97 200 6978",
@@ -45,25 +45,37 @@
         "company": "EVOL (TSnet S.A.)",
         "title": "Frontend Developer",
         "years": "Dec 2019 - July 2020",
-        "description": "Frontend developer assigned to the ODC project (the origination of credit cards), System developed for the registration and consultation of financial data of customers through their ID to different credit institutions throughout Peru, this system allows to speed up the evaluation process and CENCOSUD credit card allocation to different bank customers."
+        "description": "Frontend developer assigned to the ODC project (the origination of credit cards), System developed for the registration and consultation of financial data of customers through their ID to different credit institutions throughout Peru, this system allows to speed up the evaluation process and CENCOSUD credit card allocation to different bank customers. Place assigned: Development offices of Cencosud Bank Technologies used: ReactJS, Redux, Axios, Material-UI, Git, Azure DevOps, SonarQube (Code Scan), GitLab."
       },
       {
         "company": "It Secure S.A",
         "title": "Functional analyst - QA / Analista Funcional - QA",
         "years": "July 2019 - Sept 2020",
-        "description": "Prepare the functional analysis of new applications for different organizations, as well as update and improve existing ones; that is, it must control, analyze and supervise the functional development of computer applications, ensuring their correct exploitation and optimal performance."
+        "description": "Prepare the functional analysis of new applications for different organizations, as well as update and improve existing ones; that is, it must control, analyze and supervise the functional development of computer applications, ensuring their correct exploitation and optimal performance. Development of diagrams of operations and design of applications at the level of mockups. Currently, the service offered is for the Tgestiona Company and in turn the assigned projects of Telefonica of Perú Technologies used: Lucidchart (development of diagrams and mockups), Figma (development of mockups), Office tools (Word, Excel, PowerPoint), Agile Scrum methodology."
       },
       {
         "company": "It Secure S.A",
         "title": "Frontend Developer",
         "years": "July 2019 - Sept 2020",
-        "description": "Developer Frontend in the project: The Money Table, development and layout of screens. Web system for remittance auctions (Dollars and Soles)."
+        "description": "Developer Frontend in the project: The Money Table, development and layout of screens. Web system for remittance auctions (Dollars and Soles). Technologies used: HTML, CSS, Javascript, Git."
       },
       {
         "company": "Avian Travel Services c.a",
         "title": "Frontend Developer",
         "years": "July 2018 - Nov 2018",
-        "description": "Frontend developer, development of App for the quotation of the terrestrial, aerial, maritime ticket and tourist packages. with the ReactJS framework together with the MaterialUI library, under the Scrum development methodology."
+        "description": "Frontend developer, development of App for the quotation of the terrestrial, aerial, maritime ticket and tourist packages. with the ReactJS framework together with the MaterialUI library, under the Scrum development methodology. Technologies used: Javascript, ReactJS, HTML / CSS, Redux, Git, Material-UI."
+      },
+      {
+        "company": "Grupo Red M",
+        "title": "Full Stack Developer",
+        "years": "ago 2017 - feb 2018",
+        "description": "Development of modules and support of the CRM Brainy App. Technologies used: Framework Bootstrap 3, Javascript, PostgreSQL, Apache, PHP."
+      },
+      {
+        "company": "Spartan Tech's",
+        "title": "Project Leader / Full stack developer",
+        "years": "dec 2014 - dec 2016",
+        "description": "The general leadership of the development department, the leadership of the POS project, developer in the other projects under development in the department. Technologies used: Yii2 Framework (PHP), Enyo Framework (Javascript), OpenBravo (ERP), Java, Nginx (Creation and configuration of servers), Ubuntu Server (Creation and configuration of servers), Apache Tomcat, Postgresql, CSS, MVC development , Jquery."
       }
     ],
     "skills": [
@@ -134,6 +146,12 @@
         "category": "A simple CRUD (Create, Read, Update and Delete) API developed with nodeJS (Express Framework), MongoDB Atlas with Mongoose for the development of the database system.",
         "image": "node_api.jpg",
         "url": "https://github.com/gmujica/express-mongoose-api"
+      },
+      {
+        "title": "Omnifood",
+        "category": "A simple web page for food delivery app",
+        "image": "foof.png",
+        "url": "https://gmujica.github.io/omnifood/"
       }
     ]
   },
