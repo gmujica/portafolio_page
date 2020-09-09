@@ -3,7 +3,7 @@
     "name": "Gregory Mujica",
     "occupation": "Full-stack web developer",
     "description": "Full Stack React and Node developer (MERN)",
-    "image": "dev.jpeg",
+    "image": "profile.jpg",
     "bio": "I’m a full stack web developer with extensive knowledge in frontend development. Extensive knowledge in Javascript, firebase, MongoDB (mongoose), Css Frameworks as, ReactJS, NodeJS. Experience with development under the Agile Scrum Methodology",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "gregorymujica1993@gmail.com",
@@ -31,7 +31,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Main skills",
     "education": [
       {
         "school": "University of Kent",
@@ -106,22 +106,34 @@
         "url": "https://gmujica.github.io/proyect-ticket-manager/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "COVID-19 Tracker",
+        "category": "A simple App for monitoring COVID-19 cases worldwide.",
         "image": "t.png",
-        "url": "https://github.com/gmujica/Covid_19_Tracker"
+        "url": "https://covid-19-tracker-gmujica-c11046.netlify.app/"
       },
       {
         "title": "Github Jobs",
         "category": "A simple application that consumes the github jobs api and performs searches built with ReactJS and Hooks",
         "image": "github.png",
-        "url": "https://github.com/gmujica/github-jobs"
+        "url": "https://github-jobs-63b6b.netlify.app/"
       },
       {
         "title": "React Fitebase Chat",
         "category": "A simple chat app built with ReactJS and Firebase",
         "image": "chat.png",
         "url": "https://github.com/gmujica/react-firebase-chat"
+      },
+      {
+        "title": "Express Authentication API",
+        "category": "A simple authentication API developed with nodeJS (Express Framework), MongoDB Atlas with Mongoose for the development of the database system. It also implements security and sessions already started. All this implemented with JWT (Json Web Token)",
+        "image": "node_api.jpg",
+        "url": "https://github.com/gmujica/express-auth-mongo"
+      },
+      {
+        "title": "Express CRUD API",
+        "category": "A simple CRUD (Create, Read, Update and Delete) API developed with nodeJS (Express Framework), MongoDB Atlas with Mongoose for the development of the database system.",
+        "image": "node_api.jpg",
+        "url": "https://github.com/gmujica/express-mongoose-api"
       }
     ]
   },
