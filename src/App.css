@@ -11,6 +11,13 @@
 
 .content > div:hover {
     color: white;
+    font-size: 85px;
+    transition: 0.3s;
+}
+
+.content >  div {
+    font-size: 70px;
+    transition: 0.3s;
 }
 
 @media screen and (max-width: 568px) {
