@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #11ABB0; }
 
 
 /* ------------------------------------------------------------------ */
@@ -204,6 +204,7 @@ ul#nav li.current a { color: #F06000; }
 #about p {
    line-height: 30px;
    color: #7A7A7A;
+   text-align: justify;
 }
 #about .profile-pic {
    position: relative;
@@ -259,7 +260,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #resume .header-col { padding-top: 9px; }
-#resume .main-col { padding-right: 10%; }
+#resume .main-col { padding-right: 10%; text-align: justify; }
 
 .education, .work {
    margin-bottom: 48px;
