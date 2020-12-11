@@ -55,7 +55,7 @@
       },
       {
         "company": "It Secure S.A",
-        "title": "Functional analyst - QA / Analista Funcional - QA",
+        "title": "Functional analyst - QA",
         "years": "July 2019 - Sept 2020",
         "description": "Prepare the functional analysis of new applications for different organizations, as well as update and improve existing ones; that is, it must control, analyze and supervise the functional development of computer applications, ensuring their correct exploitation and optimal performance. Development of diagrams of operations and design of applications at the level of mockups. Currently, the service offered is for the Tgestiona Company and in turn the assigned projects of Telefonica of Perú Technologies used: Lucidchart (development of diagrams and mockups), Figma (development of mockups), Office tools (Word, Excel, PowerPoint), Agile Scrum methodology."
       },
@@ -119,7 +119,7 @@
     "projects": [
       {
         "title": "React Cryptocurrentcy",
-        "category": "-------",
+        "category": "A simple real-time web application for monitoring and consulting various types of cryptocurrencies. This application was developed with: ReactJS, Hooks, Axios, coingecko API (https://www.coingecko.com/en/api#explore-api) / coins / markets",
         "image": "cr.png",
         "url": "https://cryptocurrentcy-gmujica.netlify.app/"
       },
