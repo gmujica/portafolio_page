@@ -42,6 +42,12 @@
     ],
     "work": [
       {
+        "company": "SOAINT",
+        "title": "Frontend Developer",
+        "years": "Sep 2020 - Current Date",
+        "description": "Frontend developer assigned to the Manga project (Prima AFP Client), Savings consultation system in the Prima AFP pension system throughout Peru. My tasks as a frontend developer range from the development of web components for the application to the verification of its correct operation in different mobile environments.Technologies used: ReactJS (Hooks), Redux, Styled components, Microsoft Azure, Git, React google Recaptcha v3, Browserstack."
+      },
+      {
         "company": "EVOL (TSnet S.A.)",
         "title": "Frontend Developer",
         "years": "Dec 2019 - July 2020",
@@ -111,6 +117,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "React Cryptocurrentcy",
+        "category": "-------",
+        "image": "cr.png",
+        "url": "https://cryptocurrentcy-gmujica.netlify.app/"
+      },
       {
         "title": "Proyect Ticket Manager",
         "category": "A simple task ticket management tool developed to support the management of a project using agile methodologies such as Scrum.",
