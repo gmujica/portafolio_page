@@ -42,6 +42,12 @@
     ],
     "work": [
       {
+        "company": "SOAINT",
+        "title": "Frontend Developer",
+        "years": "Sep 2020 - Current Date",
+        "description": "Frontend developer assigned to the Manga project (Prima AFP Client), Savings consultation system in the Prima AFP pension system throughout Peru. My tasks as a frontend developer range from the development of web components for the application to the verification of its correct operation in different mobile environments.Technologies used: ReactJS (Hooks), Redux, Styled components, Microsoft Azure, Git, React google Recaptcha v3, Browserstack."
+      },
+      {
         "company": "EVOL (TSnet S.A.)",
         "title": "Frontend Developer",
         "years": "Dec 2019 - July 2020",
@@ -49,7 +55,7 @@
       },
       {
         "company": "It Secure S.A",
-        "title": "Functional analyst - QA / Analista Funcional - QA",
+        "title": "Functional analyst - QA",
         "years": "July 2019 - Sept 2020",
         "description": "Prepare the functional analysis of new applications for different organizations, as well as update and improve existing ones; that is, it must control, analyze and supervise the functional development of computer applications, ensuring their correct exploitation and optimal performance. Development of diagrams of operations and design of applications at the level of mockups. Currently, the service offered is for the Tgestiona Company and in turn the assigned projects of Telefonica of Perú Technologies used: Lucidchart (development of diagrams and mockups), Figma (development of mockups), Office tools (Word, Excel, PowerPoint), Agile Scrum methodology."
       },
@@ -111,6 +117,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "React Cryptocurrentcy",
+        "category": "A simple real-time web application for monitoring and consulting various types of cryptocurrencies. This application was developed with: ReactJS, Hooks, Axios, coingecko API (https://www.coingecko.com/en/api#explore-api) / coins / markets",
+        "image": "cr.png",
+        "url": "https://cryptocurrentcy-gmujica.netlify.app/"
+      },
       {
         "title": "Proyect Ticket Manager",
         "category": "A simple task ticket management tool developed to support the management of a project using agile methodologies such as Scrum.",
