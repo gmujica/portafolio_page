@@ -42,6 +42,12 @@
     ],
     "work": [
       {
+        "company": "Grupo Avanza",
+        "title": "Backend Developer",
+        "years": "July 2021 - Current date",
+        "description": "Backend developer in charge of creating, modifying and optimizing Rest APIs for the Falabella Insurance Client Headquarters: Chile, Colombia, Peru, Projects worked: FPAY: Rest API for the massive return of payments to bank clients. LIA: Authentication and data validation system for your clients. Among my tasks were from the development and management of databases, as well as the development of unit tests.Technologies: NodeJS (Express, Koa), PostgresSQL, MongoDB, Git (Bitbucket), Jets (Unit Test), JIRA."
+      },
+      {
         "company": "SOAINT",
         "title": "Frontend Developer",
         "years": "Sep 2020 - March 2021",
