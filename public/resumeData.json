@@ -124,6 +124,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Ecomerce express API",
+        "category": "Node MongoDB eCommerce Rest API using Stripe payment method. Node.js (Express) shopping API with users type authentications. This Rest API consists of a CRUD and user authentication with their types, regular user and admin user, the latter being the rol with the most privileges.",
+        "image": "node_api.jpg",
+        "url": "https://github.com/gmujica/ecomerce-api"
+      },
+      {
         "title": "React Cryptocurrentcy",
         "category": "A simple real-time web application for monitoring and consulting various types of cryptocurrencies. This application was developed with: ReactJS, Hooks, Axios, coingecko API (https://www.coingecko.com/en/api#explore-api) / coins / markets",
         "image": "cr.png",
@@ -158,12 +164,6 @@
         "category": "A simple authentication API developed with nodeJS (Express Framework), MongoDB Atlas with Mongoose for the development of the database system. It also implements security and sessions already started. All this implemented with JWT (Json Web Token)",
         "image": "node_api.jpg",
         "url": "https://github.com/gmujica/express-auth-mongo"
-      },
-      {
-        "title": "Express CRUD API",
-        "category": "A simple CRUD (Create, Read, Update and Delete) API developed with nodeJS (Express Framework), MongoDB Atlas with Mongoose for the development of the database system.",
-        "image": "node_api.jpg",
-        "url": "https://github.com/gmujica/express-mongoose-api"
       },
       {
         "title": "Omnifood",
