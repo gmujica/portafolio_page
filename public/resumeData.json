@@ -130,10 +130,10 @@
         "url": "https://github.com/gmujica/ecomerce-api"
       },
       {
-        "title": "React Cryptocurrentcy",
-        "category": "A simple real-time web application for monitoring and consulting various types of cryptocurrencies. This application was developed with: ReactJS, Hooks, Axios, coingecko API (https://www.coingecko.com/en/api#explore-api) / coins / markets",
-        "image": "cr.png",
-        "url": "https://cryptocurrentcy-gmujica.netlify.app/"
+        "title": "React Cryptoverse App",
+        "category": "A simple real-time web application for monitoring and consulting various types of cryptocurrencies and news. This application was developed with: ReactJS, Hooks, Axios.",
+        "image": "cryptoverse.PNG",
+        "url": "https://gmujica-cryptopverse-app.netlify.app/"
       },
       {
         "title": "Proyect Ticket Manager",
