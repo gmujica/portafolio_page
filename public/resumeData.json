@@ -42,6 +42,12 @@
     ],
     "work": [
       {
+        "company": "Acid Labs ",
+        "title": "Full-stack Developer",
+        "years": "Oct 2021 - Current Date",
+        "description": "Full Stack developer assigned to CENCOSUD for the Pim Marketplace project. Technologies: NodeJS (NestJS), ReactJS, Docker,AWS (Terraform: SNS - SQS - S3), Lambda functions, Gitlab (CI/CD - pilines), Jira, Scrum, Mysql, Typescript."
+      },
+      {
         "company": "Grupo Avanza",
         "title": "Backend Developer",
         "years": "July 2021 - Oct 2021",
