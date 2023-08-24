@@ -2,18 +2,18 @@
   "main": {
     "name": "Gregory Mujica",
     "occupation": "Full-stack web developer",
-    "description": "Full Stack React and Node developer (MERN)",
+    "description": "Specialized in microservices and development architectures",
     "image": "profile.jpg",
-    "bio": "I’m a full stack web developer with extensive knowledge in frontend development. Extensive knowledge in Javascript, firebase, MongoDB (mongoose), Css Frameworks as, ReactJS, NodeJS. Experience with development under the Agile Scrum Methodology.",
+    "bio": "As a senior full-stack JavaScript developer with a passion for innovation and delivering high-quality code, I believe in the power of networking and collaboration within our industry. With over 8 years of experience, I have had the privilege of working on a wide range of projects, from social network platforms for athletes and sports competitions to e-commerce and marketplace solutions. My technical skills span technologies such as NodeJS (NestJS, Express), ReactJS, TypeScript, PostgreSQL, Docker, AWS, GitLab, microservices and more. I have a proven track record of successfully leading the development of complex projects, collaborating closely with cross-functional teams to deliver scalable and efficient web applications. I am constantly seeking new challenges and opportunities to expand my skill set, and I actively participate in tech communities and stay up-to-date with the latest industry trends.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "gregorymujica1993@gmail.com",
     "phone": "+51 97 200 6978",
     "address": {
       "street": "Barranco",
       "homecity": "Venezuelan",
-      "city": "Lima",
-      "state": "PE",
-      "zip": "15047"
+      "city": "Montevideo",
+      "state": "UY",
+      "zip": "11100"
     },
     "website": "https://github.com/gmujica",
     "resumedownload": "https://github.com/gmujica",
@@ -42,10 +42,16 @@
     ],
     "work": [
       {
+        "company": "Dacodes",
+        "title": "Backend Developer",
+        "years": "sep 2022 - may 2023",
+        "description": "At Dacodes, I played a pivotal role as a Backend Developer in the creation of the asdeporte social network. Utilizing a robust tech stack including Node.js, NestJS, GraphQL, and Apache Kafka, I designed and implemented API architecture, enabling seamless communication through Apache Kafka. I managed GitLab for codebase and version control, and led the transition to an advanced microservices structure, adopting NestJS for microservices development. Collaboration and code optimization were key, resulting in impactful contributions to athlete engagement and sports technology. Key Skills: nodejs (nest), typescript, postgres, docker, typeorm, graphql, apache kafka, gitlab, microservices, scrum, jira, aws, tdd, ddd, typescript."
+      },
+      {
         "company": "Acid Labs ",
         "title": "Full-stack Developer",
-        "years": "Oct 2021 - Current Date",
-        "description": "Full Stack developer assigned to CENCOSUD for the Pim Marketplace project. Technologies: NodeJS (NestJS), ReactJS, Docker,AWS (Terraform: SNS - SQS - S3), Lambda functions, Gitlab (CI/CD - pilines), Jira, Scrum, Mysql, Typescript."
+        "years": "july 2021 - oct  2021",
+        "description": "During my tenure at Grupo Avanza, I significantly impacted the Falabella Insurance projects as a Backend Developer. I spearheaded the creation of an API tailored for bulk fee returns, streamlining the refund process and leveraging AWS services for efficiency. The integration of Lambda Functions, CI/CD pipelines, and technologies like Terraform and Docker facilitated seamless project execution. Cross-functional collaboration, database management, and infrastructure configuration were key aspects, leading to successful project deliveries and enriched expertise. Key Skills:  nodejs (express - koa), typescript, postgres, docker, mongodb, microservices, git, jest, jira."
       },
       {
         "company": "Grupo Avanza",
@@ -56,14 +62,14 @@
       {
         "company": "SOAINT",
         "title": "Frontend Developer",
-        "years": "Sep 2020 - March 2021",
-        "description": "Frontend developer assigned to the Manga project (Prima AFP Client), Savings consultation system in the Prima AFP pension system throughout Peru. My tasks as a frontend developer range from the development of web components for the application to the verification of its correct operation in different mobile environments.Technologies used: ReactJS (Hooks), Redux, Styled components, Microsoft Azure, Git, React google Recaptcha v3, Browserstack."
+        "years": "dec  2019 - july 2020",
+        "description": "At Soaint, my role as a Full-Stack Developer encompassed impactful contributions to both backend and frontend development. I designed APIs for bulk fee returns, ensuring seamless project management through Scrum, JIRA, GitLab, and CI/CD pipelines. My proficiency in Node.js, NestJS, ReactJS, and AWS services enhanced backend and frontend solutions, optimizing user experiences. My engagement showcased versatility, collaboration, and innovation across projects. Key Skills: reactjs (hooks), redux, styled components, azure, git, react google recaptcha v3, browserstack, nodejs, sql server, codescan."
       },
       {
         "company": "EVOL (TSnet S.A.)",
         "title": "Frontend Developer",
         "years": "Dec 2019 - July 2020",
-        "description": "Frontend developer assigned to the ODC project (the origination of credit cards), System developed for the registration and consultation of financial data of customers through their ID to different credit institutions throughout Peru, this system allows to speed up the evaluation process and CENCOSUD credit card allocation to different bank customers. Place assigned: Development offices of Cencosud Bank Technologies used: ReactJS, Redux, Axios, Material-UI, Git, Azure DevOps, SonarQube (Code Scan), GitLab."
+        "description": "At Evol, I excelled as a Frontend Developer, delivering user-centric front-end applications using React.js and Material UI. I provided essential backend support for the ODC project, streamlining credit card origination. My versatility extended to backend support and involvement in the quotation application. My proficiency in React.js, Redux, .Net Core, and AWS services resulted in engaging interfaces, streamlined development, and improved user experiences. Key Skills: reactjs, redux, axios, materialui, git, azure devops, sonarqube, gitlab, sql server, .core(crud), nodejs (express)"
       },
       {
         "company": "It Secure S.A",
@@ -74,26 +80,26 @@
       {
         "company": "It Secure S.A",
         "title": "Frontend Developer",
-        "years": "July 2019 - Sept 2020",
-        "description": "Developer Frontend in the project: The Money Table, development and layout of screens. Web system for remittance auctions (Dollars and Soles). Technologies used: HTML, CSS, Javascript, Git."
+        "years": "april 2019 - Sept 2019",
+        "description": "My role at IT Secure involved meticulous preparation of functional analyses, fostering efficient application evolution across organizations. By employing tools like Lucidchart and Figma, I communicated complex ideas effectively. Embracing Agile Scrum, I adapted to distinct contexts, optimizing digital landscapes and ensuring peak performance of applications. Key Skills: lucidchart, figma, scrum, sql server."
       },
       {
         "company": "Avian Travel Services c.a",
         "title": "Frontend Developer",
-        "years": "July 2018 - Nov 2018",
-        "description": "Frontend developer, development of App for the quotation of the terrestrial, aerial, maritime ticket and tourist packages. with the ReactJS framework together with the MaterialUI library, under the Scrum development methodology. Technologies used: Javascript, ReactJS, HTML / CSS, Redux, Git, Material-UI."
+        "years": "July 2018 - dec 2018",
+        "description": "As a Frontend Developer at Aviant Travel, I crafted engaging user experiences using React.js and Material UI. I provided crucial backend support for the credit card origination project, ensuring seamless workflow. My contribution extended to designing the company website, showcasing proficiency in HTML, CSS, Redux, and Git. My engagements enriched digital presence and user interactions. Key Skills: reactjs, redux, git, materialui."
       },
       {
         "company": "Grupo Red M",
         "title": "Full Stack Developer",
         "years": "ago 2017 - feb 2018",
-        "description": "Development of modules and support of the CRM Brainy App. Technologies used: Framework Bootstrap 3, Javascript, PostgreSQL, Apache, PHP."
+        "description": "At Grupo Red M, I showcased Full-Stack Developer expertise by leading the development of CRM brainy app modules. I created responsive interfaces, managed PostgreSQL databases, and used Apache for deployment. My involvement highlighted adaptability, technological proficiency, and contribution to streamlined operations. Key Skills: php, bootstrap 3, javascript"
       },
       {
         "company": "Spartan Tech's",
         "title": "Project Leader / Full stack developer",
         "years": "dec 2014 - dec 2016",
-        "description": "The general leadership of the development department, the leadership of the POS project, developer in the other projects under development in the department. Technologies used: Yii2 Framework (PHP), Enyo Framework (Javascript), OpenBravo (ERP), Java, Nginx (Creation and configuration of servers), Ubuntu Server (Creation and configuration of servers), Apache Tomcat, Postgresql, CSS, MVC development , Jquery."
+        "description": "In my role as a Full-Stack Developer at Spartan Tech´s, I demonstrated leadership by spearheading the POS project, utilizing Yii2 and Enyo for PHP and JavaScript development. I integrated ERP systems, optimized databases, and adhered to MVC pattern for structured code. My versatility spanned from responsive interfaces to efficient databases, reflecting my commitment to impactful development practices. Key Skills: php (yii2), enyo, java, nginx, apache tomcat, postgres, css, mvc, jquery, ajax."
       }
     ],
     "skills": [
@@ -102,33 +108,57 @@
         "level": "90%"
       },
       {
+        "name": "typescript",
+        "level": "75%"
+      },
+      {
         "name": "ReactJs",
         "level": "80%"
       },
       {
-        "name": "CSS",
+        "name": "nodejs (nest)",
         "level": "70%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "85%"
       },
       {
         "name": "NodeJS (Express)",
         "level": "55%"
       },
       {
-        "name": "HTML5",
+        "name": "postgres",
         "level": "80%"
       },
       {
         "name": "MongoDB",
         "level": "50%"
+      },
+      {
+        "name": "docker",
+        "level": "90%"
+      },
+      {
+        "name": "microservices",
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Event manager Nestjs microservice",
+        "category": "A nestjs event manager with auth (jwt), docker and postgres",
+        "image": "nestjs.png",
+        "url": "https://github.com/gmujica/nestjs-api"
+      },
+      {
+        "title": "Event manager Reactjs frontend",
+        "category": "A Reactjs event manager with material-ui and microservices integration",
+        "image": "1.png",
+        "url": "https://github.com/gmujica/nest-react-front"
+      },
       {
         "title": "Ecomerce express API",
         "category": "Node MongoDB eCommerce Rest API using Stripe payment method. Node.js (Express) shopping API with users type authentications. This Rest API consists of a CRUD and user authentication with their types, regular user and admin user, the latter being the rol with the most privileges.",
@@ -146,18 +176,6 @@
         "category": "A simple task ticket management tool developed to support the management of a project using agile methodologies such as Scrum.",
         "image": "p-t-m.png",
         "url": "https://gmujica.github.io/proyect-ticket-manager/"
-      },
-      {
-        "title": "COVID-19 Tracker",
-        "category": "A simple App for monitoring COVID-19 cases worldwide.",
-        "image": "t.png",
-        "url": "https://covid-19-tracker-gmujica-c11046.netlify.app/"
-      },
-      {
-        "title": "Github Jobs",
-        "category": "A simple application that consumes the github jobs api and performs searches built with ReactJS and Hooks",
-        "image": "github.png",
-        "url": "https://github-jobs-63b6b.netlify.app/"
       },
       {
         "title": "React Fitebase Chat",
